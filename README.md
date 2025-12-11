@@ -1,5 +1,5 @@
 # DBL Data Challenge
-
+[Paper](./report.pdf)
 ***
 
 ## Evaluating Lufthansa's Twitter Presence
